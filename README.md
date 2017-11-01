@@ -1,9 +1,1 @@
-# Django_1
-# django_1
-# django_pro
-# maheshwari
-# finalpro
-# Django1
-# django1
-# Django1
-# Django_1
+This is the first django project
